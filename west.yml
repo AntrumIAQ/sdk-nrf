@@ -49,7 +49,6 @@ manifest:
     # https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/introduction/index.html
     # https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/guides/modules.html
     - name: zephyr
-      path: sdk-zephyr
       url: https://github.com/AntrumIAQ/sdk-zephyr.git
       revision: v3.0.99-ncs1-branch
       import:
